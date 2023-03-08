@@ -1,0 +1,27 @@
+1)	Root Finding Basics		
+2)	Bisection Method		
+3)	Newton Rhapson			
+4)	False Position		
+5)	Fixed Point iteration	
+6)	Comparison in root finding methods	
+7)	ODE basics		
+8)	Euler Method		
+9)	Runge-kutta method			
+10)	comparison in ODE		
+11)	SLE basics				
+12)	Gauss jacobi method		
+13)	Gauss Seidel Method			
+14)	SLE using Cramer Rule		
+15)	SLE using Matrix Inverse		
+16)	SLE using Gauss Elemination	
+17)	Comparison in SLE		
+18)	Numerical Integration Basics	
+19)	Trapezoid Rules			
+20)	Simpsons 1/3 rule	
+21)	Comparison in Numerical Integration	
+22)	Comparison between Gauss Seidel and Gauss Jaccobi
+23)	Plot, subplot, graph related problem using given (x, y) data range
+24)	ODE: Analytical problem and its solution	
+25)	Root Finding-Bisection: Analytical problem and its solution 
+26)	Root finding-false position: Analytical problem and its solution 
+27)	Root Finding-newton raphson: Analytical problem and its solution SLE: Analytical problem and its solution

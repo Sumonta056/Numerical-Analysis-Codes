@@ -1,0 +1,38 @@
+# Created by Octave 7.3.0, Wed Jan 25 11:23:05 2023 GMT <unknown@DESKTOP-B2BGK3T>
+# name: a
+# type: scalar
+1
+
+
+# name: b
+# type: scalar
+1.4296126786714538
+
+
+# name: c
+# type: scalar
+1.4296120190615607
+
+
+# name: counter
+# type: scalar
+11
+
+
+# name: f
+# type: function handle
+@<anonymous>
+@(x) 4 * log (x) - x
+
+
+# name: tol
+# type: scalar
+9.9999999999999995e-07
+
+
+# name: xq
+# type: double_range
+# base, limit, increment
+0 10 0.10000000000000001
+
+
